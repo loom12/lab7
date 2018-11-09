@@ -1,4 +1,4 @@
-package com.myweb.lab7;
+package com.example.hp.lab7;
 
 import org.junit.Test;
 
